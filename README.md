@@ -1,5 +1,3 @@
 # Hello
 
-[TOC]
-
 ## PCL LuLu
